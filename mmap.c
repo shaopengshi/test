@@ -1,4 +1,5 @@
 
+#include <signal.h>
 #include <sys/mman.h>
 #include <stdio.h>
 #include <fcntl.h>
