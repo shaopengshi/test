@@ -4,6 +4,7 @@
 
 enum Register {
 	SYS_REG = 0,
+	TIME_REG,
 };
 
 #endif
