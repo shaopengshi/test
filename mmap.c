@@ -9,7 +9,9 @@
 
 #define MAP_SIZE 128
 
-
+/*
+ * thread call func
+ */
 void *thread_func(void *arg)
 {
     pthread_t id = pthread_self();
