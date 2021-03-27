@@ -1,7 +1,8 @@
 /*
  * This is the test.h file.
  * Register enum
- * llllllllllddadakm
+ *
+ * 11111111122222222222d
  */
 
 #ifndef __TEST_H_
