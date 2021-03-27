@@ -1,8 +1,4 @@
 /*
- * haode 
- */
-
-/*
  * This is the test.h file.
  * Register enum
  */
